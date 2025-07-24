@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Praharsh 👋</h1>
-<p align="center">🚀 Founder @ <a href="https://innrspark.com">Innrspark</a> · 🧠 Learning AI/ML · 🛠 Building purposeful tech</p>
+<p align="center">🚀 Founder  <a href="https://innrspark.com">Innrspark</a> · 🧠 Learning AI/ML · 🛠 Building purposeful tech</p>
 
 ---
 
@@ -50,4 +50,4 @@ Currently learning by building — focused on turning real problems into usable,
 
 ---
 
-<p align="center"><i>Building real, learning fast — one focused step at a time.</i></p>
+<p align="center"><i>Building real, learning fast one focused step at a time.</i></p>
