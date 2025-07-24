@@ -6,7 +6,7 @@
 ## 🧭 About Me
 
 I'm building **Innrspark**, a platform helping individuals navigate career uncertainty using psychometrics, AI, and structured guidance.  
-Currently learning by building — focused on turning real problems into usable, thoughtful products.
+Currently learning by building  focused on turning real problems into usable, thoughtful products.
 
 ---
 
