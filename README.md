@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Praharsh+%F0%9F%91%8B;Founder+of+Innrspark+%F0%9F%9A%80;Learning+AI%2FML+%F0%9F%A7%A0;Building+purposeful+tech+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Praharsh+%F0%9F%91%8B;Founder+of+Innrspark+%F0%9F%9A%80;Learning+AI%2FML+%F0%9F%A7%A0;Building+purposeful+tech+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <p align="center">🚀 Founder of <a href="https://innrspark.com">Innrspark</a> · 🧠 Learning AI/ML · 🛠 Building purposeful tech</p>
